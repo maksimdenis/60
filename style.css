@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+a {
+    background-color: lightblue;
+}
+h1 {
+    color: lightgreen;
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 5px 5px 1px lightslategrey;
+}
+p {
+    background-color: beige;
+}
+.smail {
+    position: absolute;
+}
+.smail:hover {
+    left: 250px;  
+}
+.to {
+    position: absolute;
+}
+.to:hover {
+    left: 400px;
+}
+footer p {
+    background-color: lightcoral;
+}
